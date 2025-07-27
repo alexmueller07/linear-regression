@@ -13,6 +13,8 @@ This project implements linear regression **from scratch**, using only Python an
 
 All logic is contained in `main.py`.
 
+![lr_gif](https://github.com/user-attachments/assets/53ed9da9-0e0e-4ca7-a4b3-2cb2308406c3)
+
 ## 🛠 How to Run
 
 1. Clone the repository:
